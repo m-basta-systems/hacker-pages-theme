@@ -124,12 +124,19 @@ h6 {
   font-size: 30px;
 }
 
+
+#main_content h2:first-of-type {
+  margin: 0 0 0 0;
+}
+
 #main_content h2 {
   font-size: 24px;
+  margin: 60px 0 0 0;
 }
 
 #main_content h3 {
   font-size: 18px;
+  margin: 20px 0 0 0;
 }
 
 #main_content h4 {
